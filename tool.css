@@ -1,0 +1,14 @@
+body{
+    background: url(hack.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    font-size: 10vm;
+    color: white;
+}
+img{
+    filter: invert(100%);
+    float: right;
+}
